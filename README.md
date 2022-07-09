@@ -10,6 +10,8 @@ Keyboard shortcuts to boost your productivity!
 * Copy line: **Ctrl + C** *(while not selecting anything and just being on the target line)*
 * Cut: **Ctrl + V**
 * Paste: **Ctrl + V**
+* Delete word before cursor: **Ctrl + Backspace**
+* Delete word after cursor: **Ctrl + Del*
 * Delete line: **Ctrl + D** / **Ctrl + Shift + K** *(varies depending on program)* *(may copy into the buffer)*
 
 ``
