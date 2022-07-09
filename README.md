@@ -11,7 +11,7 @@ Keyboard shortcuts to boost your productivity!
 * Cut: **Ctrl + V**
 * Paste: **Ctrl + V**
 * Delete word before cursor: **Ctrl + Backspace**
-* Delete word after cursor: **Ctrl + Del*
+* Delete word after cursor: **Ctrl + Del**
 * Delete line: **Ctrl + D** / **Ctrl + Shift + K** *(varies depending on program)* *(may copy into the buffer)*
 
 ``
